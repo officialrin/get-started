@@ -1,2 +1,2 @@
 # welcome-assignment
-welcome assignment nyu cysec
+Wireshark Lab: Getting Started (CS-GY 6843)
