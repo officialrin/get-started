@@ -1,4 +1,4 @@
-# welcome-assignment
+# get-started
 Computer Networking Assignment 1
 
 The goal of this assignment is to bring you up to speed with basic programming skills and tools that you will be using throughout the semester to complete course assignments. At the end of this assignment, you should be able to write conditional statements in Python and be familiar with tools like GitHub, GradeScope, and PyCharm. 
